@@ -1,3 +1,5 @@
+[made by Hacking Everything]
+```python
 #!/usr/bin/env python3
 # language: Python 3.10+, file: app.py, target: any
 # Local web UI for Linkvertise bypass – direct publisher API + public resolvers.
